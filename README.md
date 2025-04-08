@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceyda Kuşcuoğlu</h1>
-<h3 align="center">A passionate developer with a love for game dev, AI, and full-stack development</h3>
+<h3 align="center">A passionate developer with a love for Embedded Systems, AI, Game Dev and Full-Stack Development</h3>
 
 ---
 
@@ -14,12 +14,12 @@
 
 ### 🚀 Projects Showcase
 
+- 🏭 [Car Factory](https://github.com/ceydakuscuoglu/carfactory) – Full-stack car production simulation using Spring & Ajax.  
+- 🏭 [Car Factory (MySQL)](https://github.com/ceydakuscuoglu/newcarfactory) – MySQL version of the Car Factory backend.
 - 🎯 [Zombie Runner](https://github.com/ceydakuscuoglu/ZombieRunner) – A Unity-based FPS zombie survival game.  
 - 🌌 [Galaxy Strike](https://github.com/ceydakuscuoglu/GalaxyStrike) – 2D arcade-style space shooter.  
 - 🚗 [Delivery Driver](https://github.com/ceydakuscuoglu/DeliveryDriver) – Casual 2D driving and delivery game.  
 - 🛡️ [TankGame](https://github.com/ceydakuscuoglu/TankGame) – 2D Java-based multiplayer tank battle game.  
-- 🏭 [Car Factory](https://github.com/ceydakuscuoglu/carfactory) – Full-stack car production simulation using Spring & Ajax.  
-- 🏭 [Car Factory (MySQL)](https://github.com/ceydakuscuoglu/newcarfactory) – MySQL version of the Car Factory backend.
 
 ---
 
