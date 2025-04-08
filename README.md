@@ -23,6 +23,9 @@ A 2D arcade-style space shooter with enemy waves, collision detection, and score
 ### 🚗 [Delivery Driver](https://github.com/ceydakuscuoglu/DeliveryDriver)  
 A casual 2D game where the player delivers packages through a neighborhood using basic physics and triggers.
 
+### 🛡️ [TankGame](https://github.com/ceydakuscuoglu/TankGame) 
+A 2D multiplayer tank battle game built in **Java**, featuring destructible environments, power-ups, and a dynamic scoring system.
+
 ---
 
 ## 🛠️ Skills & Tools
