@@ -1,4 +1,4 @@
-# Ceyda Kuşcuoğlu
+# Ceyda Kuşçuoğlu
 
 🎮 I'm a passionate developer with a strong interest in **game development**, **embedded systems**, **database management**, and **artificial intelligence**.  
 💡 I enjoy solving real-world problems and building interactive experiences using modern tools and technologies.  
