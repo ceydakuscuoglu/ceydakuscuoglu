@@ -16,8 +16,8 @@
 
 - 🏭 [Car Factory](https://github.com/ceydakuscuoglu/carfactory) – Full-stack car production simulation using Spring & Ajax.  
 - 🏭 [Car Factory (MySQL)](https://github.com/ceydakuscuoglu/newcarfactory) – MySQL version of the Car Factory backend.
-- 🎯 [Zombie Runner](https://github.com/ceydakuscuoglu/ZombieRunner) – A Unity-based FPS zombie survival game.  
-- 🌌 [Galaxy Strike](https://github.com/ceydakuscuoglu/GalaxyStrike) – 2D arcade-style space shooter.  
+- 🎯 [Zombie Runner](https://github.com/ceydakuscuoglu/ZombieRunner) – A 3D Unity-based FPS zombie survival game.  
+- 🌌 [Galaxy Strike](https://github.com/ceydakuscuoglu/GalaxyStrike) – 3D arcade-style space shooter.  
 - 🚗 [Delivery Driver](https://github.com/ceydakuscuoglu/DeliveryDriver) – Casual 2D driving and delivery game.  
 - 🛡️ [TankGame](https://github.com/ceydakuscuoglu/TankGame) – 2D Java-based multiplayer tank battle game.  
 
