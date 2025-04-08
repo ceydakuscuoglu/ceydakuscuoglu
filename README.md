@@ -1,48 +1,53 @@
-# Ceyda Kuşçuoğlu
-
-🎮 I'm a passionate developer with a strong interest in **game development**, **embedded systems**, **database management**, and **artificial intelligence**.  
-💡 I enjoy solving real-world problems and building interactive experiences using modern tools and technologies.  
-🚀 Always learning, always building.
+<h1 align="center">Hi 👋, I'm Ceyda Kuşcuoğlu</h1>
+<h3 align="center">A passionate developer with a love for game dev, AI, and full-stack development</h3>
 
 ---
 
-## 🚀 Featured Projects
+### 👩‍💻 About Me
 
-### 🏭 [Car Factory (Spring + JS/Ajax)](https://github.com/ceydakuscuoglu/carfactory)  
-A full-stack web app using **Java**, **Spring**, **MSSQL**, and **Ajax** to simulate real-time car factory operations.
-
-### 🏭 [Car Factory (MySQL version)](https://github.com/ceydakuscuoglu/newcarfactory)  
-An updated version of Car Factory that utilizes **MySQL** for backend database operations.
-
-### 🎮 [Zombie Runner](https://github.com/ceydakuscuoglu/ZombieRunner)  
-A Unity-based first-person shooter where the player fights off zombie enemies using multiple weapons and survival tactics.
-
-### 🌌 [Galaxy Strike](https://github.com/ceydakuscuoglu/GalaxyStrike)  
-A 2D arcade-style space shooter with enemy waves, collision detection, and score tracking.
-
-### 🚗 [Delivery Driver](https://github.com/ceydakuscuoglu/DeliveryDriver)  
-A casual 2D game where the player delivers packages through a neighborhood using basic physics and triggers.
-
-### 🛡️ [TankGame](https://github.com/ceydakuscuoglu/TankGame) 
-A 2D multiplayer tank battle game built in **Java**, featuring destructible environments, power-ups, and a dynamic scoring system.
+- 🎓 I'm a 4th-year Computer Engineering student at TED University with a full scholarship.  
+- 🎮 I love building games in Unity and exploring AI, embedded systems, and backend development.  
+- 🧠 Always learning and creating new things — from FPS games to Java-based simulations.  
+- 📫 Reach me at: **ceydakuscuoglu@gmail.com**
 
 ---
 
-## 🛠️ Skills & Tools
+### 🚀 Projects Showcase
 
-- **Languages:** Java, C#, Python, C, TypeScript, HTML, CSS, JavaScript, SQL  
-- **Frameworks & Tools:** Spring, Unity, Microsoft SQL Server, MySQL, Playwright  
-- **Concepts:** OOP,Embedded Systems, Game Mechanics, AI, Machine Learning, Web Development, Test Automation  
-- **Other Tools:** Git, Ajax, RESTful APIs, Unity Animator, NavMesh, VS Code, IntelliJ
-
----
-
-## 📫 Let's Connect
-
-- 📧 ceydakuscuoglu@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ceyda-kuscuoglu/)  
-- 💻 [GitHub](https://github.com/ceydakuscuoglu)
+- 🎯 [Zombie Runner](https://github.com/ceydakuscuoglu/ZombieRunner) – A Unity-based FPS zombie survival game.  
+- 🌌 [Galaxy Strike](https://github.com/ceydakuscuoglu/GalaxyStrike) – 2D arcade-style space shooter.  
+- 🚗 [Delivery Driver](https://github.com/ceydakuscuoglu/DeliveryDriver) – Casual 2D driving and delivery game.  
+- 🛡️ [TankGame](https://github.com/ceydakuscuoglu/TankGame) – 2D Java-based multiplayer tank battle game.  
+- 🏭 [Car Factory](https://github.com/ceydakuscuoglu/carfactory) – Full-stack car production simulation using Spring & Ajax.  
+- 🏭 [Car Factory (MySQL)](https://github.com/ceydakuscuoglu/newcarfactory) – MySQL version of the Car Factory backend.
 
 ---
 
-Thanks for stopping by! 😊
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,python,c,js,ts,html,css,spring,unity,mysql,postgres,vscode,intellij,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceydakuscuoglu&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ceyda-kuscuoglu/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ceydakuscuoglu@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
