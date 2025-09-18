@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceydakuscuoglu&layout=compact&theme=radical" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceydakuscuoglu&theme=radical" />
 </p>  
 
 ---
