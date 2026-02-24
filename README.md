@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me  
 
-- 🎓 4th-year Computer Engineering student at TED University with a full scholarship.  
+- 🎓 Computer Engineer graduated from TED University.
 - 💻 Passionate about **Backend Development, Databases, AI, and Embedded Systems**.  
 - 🤖 Experienced with **.NET, Spring Boot, SQL/NoSQL Databases, and real-time systems**.  
 - 🧠 Curious, problem-solver, and always learning new technologies.  
