@@ -1,53 +1,119 @@
 <h1 align="center">Hi 👋, I'm Ceyda Kuşcuoğlu</h1>
-<h3 align="center">Computer Engineering Student | Backend & Database Developer | AI & Embedded Systems Enthusiast</h3>
+
+<p align="center">
+Software Engineer | Backend & Database Developer | AI Enthusiast
+</p>
 
 ---
 
-### 👩‍💻 About Me  
+## 👩‍💻 About Me
 
-- 🎓 Computer Engineer graduated from TED University.
-- 💻 Passionate about **Backend Development, Databases, AI, and Embedded Systems**.  
-- 🤖 Experienced with **.NET, Spring Boot, SQL/NoSQL Databases, and real-time systems**.  
-- 🧠 Curious, problem-solver, and always learning new technologies.  
-- 📫 Reach me at: **ceydakuscuoglu@gmail.com**  
-
----
-
-### 🚀 Projects Showcase  
-
-- 👓 **[VAVI – Vision Assistive System](https://github.com/ceydakuscuoglu)** – Graduation project: YOLO-based person detection with stereo audio feedback for visually impaired users (Android Native).  
-- 🏭 **[Car Factory](https://github.com/ceydakuscuoglu/carfactory)** – Full-stack car production simulation with Spring Boot & MySQL.  
-- 🔌 **[RESTful API Project](https://github.com/ceydakuscuoglu/TaskManagmentSystem)** – Designed and implemented scalable APIs with .NET & Entity Framework, focusing on database integration and clean architecture.  
-- 🎮 **[Unity Games](https://github.com/ceydakuscuoglu?tab=repositories)** – Side projects: Zombie Runner, Galaxy Strike, Delivery Driver.  
-- 🧪 **Automated Testing Frameworks** – UI & functional test automation with Playwright + TypeScript.  
+- 🎓 Computer Engineering graduate from **TED University** *(Full Scholarship)*.
+- 💻 Passionate about **Backend Development, Database Design, and Scalable Software Systems**.
+- 🚀 Experienced in developing enterprise web and desktop applications using **ASP.NET Core, React, PostgreSQL, Vue.js, Rust, and Tauri**.
+- ⚙️ Skilled in **RESTful API Development, Entity Framework Core, Database Design, Azure DevOps, CI/CD, Jira, and Fortify**.
+- 🤖 Interested in **Artificial Intelligence and Computer Vision**, with hands-on experience using **YOLOv8** and **Gemini Vision**.
+- 📫 **Email:** ceydakuscuoglu@gmail.com
 
 ---
 
-### 🛠️ Tech Stack  
+# 🚀 Featured Projects
+
+## 👓 VAVI – AI-Powered Indoor Navigation for Visually Impaired
+
+> Graduation Project
+
+**Tech Stack**
+
+`Flutter` `FastAPI` `Python` `MSSQL` `YOLOv8` `Gemini Vision`
+
+- Built a Python pipeline to convert AutoCAD (DXF) floor plans into node-edge navigation graphs.
+- Integrated YOLOv8 object detection, Gemini Vision, voice commands, and audio guidance.
+- Developed backend services supporting AI-assisted indoor navigation.
+
+---
+
+## 📊 Sprint Capacity Tracker
+
+> Enterprise Web Application
+
+**Tech Stack**
+
+`ASP.NET Core` `React` `PostgreSQL` `Entity Framework Core` `Jira REST API`
+
+- Developed an enterprise sprint capacity tracking application.
+- Designed RESTful APIs and optimized PostgreSQL database architecture.
+- Integrated Jira REST API and contributed to Azure DevOps, CI/CD, and Fortify workflows.
+
+---
+
+## 🔔 Eyotek Bell Scheduler
+
+> Cross-Platform Desktop Application
+
+**Tech Stack**
+
+`Vue.js` `Rust` `Tauri`
+
+- Developed a configurable school bell scheduling desktop application.
+- Implemented backend integration and scheduling logic.
+- Participated in deployment, maintenance, and scalability improvements.
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,python,ts,c,rust" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,react,vue,fastapi,tauri" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mssql" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,azure" />
+</p>
+
+**Additional Technologies**
+
+`Entity Framework Core` • `RESTful APIs` • `Playwright` • `Azure DevOps` • `Jira` • `CI/CD` • `Fortify`
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceydakuscuoglu&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceydakuscuoglu&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ceydakuscuoglu&theme=radical"/>
+</p>
+
+---
+
+# 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,c,ts,js,dotnet,spring,mysql,mssql,unity,git,github,linux,vscode,idea" />
-</p>  
+<a href="https://www.linkedin.com/in/ceyda-kuscuoglu/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-### 📊 GitHub Stats  
-
-<p align="left">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceydakuscuoglu&theme=radical" />
-</p>  
-
----
-
-### 🌐 Connect with Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ceyda-kuscuoglu/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ceydakuscuoglu@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>  
-
----
+<a href="mailto:ceydakuscuoglu@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
