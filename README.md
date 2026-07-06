@@ -93,18 +93,6 @@ Software Engineer | Backend & Database Developer | AI Enthusiast
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceydakuscuoglu&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceydakuscuoglu&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ceydakuscuoglu&theme=radical"/>
-</p>
-
----
 
 # 🌐 Connect with Me
 
