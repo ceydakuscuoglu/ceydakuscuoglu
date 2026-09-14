@@ -33,6 +33,21 @@ Software Engineer | Backend & Database Developer | AI Enthusiast
 
 ---
 
+## 📱 Social Media Command Center
+
+> Autonomous Content Automation & Analytics Platform
+
+**Tech Stack**
+
+`ASP.NET Core` `Entity Framework Core` `Playwright` `AI Integration` `C#`
+
+- Developed an autonomous social media automation platform for managing and generating AI-driven video content.
+- Engineered a custom web scraper using Playwright to extract real-time TikTok trends, bypassing WAF protections and virtualized list DOM limitations.
+- Implemented persistent browser session management to bypass authentication barriers for continuous autonomous operations.
+- Designed a high-performance JSON-based daily caching mechanism to minimize redundant scraping and optimize endpoint response times.
+
+---
+
 ## 📊 Sprint Capacity Tracker
 
 > Enterprise Web Application
@@ -92,7 +107,6 @@ Software Engineer | Backend & Database Developer | AI Enthusiast
 `Entity Framework Core` • `RESTful APIs` • `Playwright` • `Azure DevOps` • `Jira` • `CI/CD` • `Fortify`
 
 ---
-
 
 # 🌐 Connect with Me
 
