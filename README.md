@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ceyda Kuşcuoğlu</h1>
 
 <p align="center">
-Software Engineer | Backend & Database Developer | AI Enthusiast
+Computer Engineer
 </p>
 
 ---
